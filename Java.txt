@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>Java Programming Language</title>
+
+<style type = "text/css">
+.header {
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.J1 {
+    background-color:#999999;
+    height:220px;
+    width:900px;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.J2 {
+    background-color:#999999;
+    height:483px;
+    width:612px;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.table {
+    background-color:#CCCCCC;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.imgJ {
+    float:right;
+}
+
+.imgJ2 {
+    float:right;
+}
+
+.imgJ3 {
+    float:right;
+}
+
+.footer {
+    background-color: black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:3px;
+}
+
+</style>
+</head>
+
+<body bgcolor = "#666666">
+<div class = "header">
+<h1>Java Programming Language</h1>
+<h5 style = "color:#FFCC00">18021006 Tianhe Wu</h5>
+</div>
+
+<font size = 15 face = Cambria color = "white">Java language</font>
+<font size = 12 face = Cambria color = "white">Introduction</font>
+<br>
+<hr size = 2 width 50% align = left noshade>
+
+<div class = "J1">
+<h2 style = "color:#000000">Introduction</h2>
+<p align = left style = "font-family:Cambria">Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+ Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. As of 2019, Java was one of the most popular programming languages in use according to GitHub, particularly for client-server web applications, with a reported 9 million developers.</p>
+</div>
+
+<div class = "imgJ">
+<img src = "Java_picture.jpg" width = "480" height = "250">
+</div>
+
+<div class = "table">
+<table border = 5 cellpadding = 3>
+<tr><th>Versions</th><th>Dates</th></tr>
+<tr><td align = center>JDK 1.0</td><td align = center>January 23, 1996</td></tr>
+<tr><td align = center>JDK 1.1</td><td align = center>February 19,1997</td></tr>
+<tr><td align = center>J2SE 1.2</td><td align = center>December 9, 1998</td></tr>
+<tr><td align = center>J2SE 1.3</td><td align = center>May 8,2000</td></tr>
+<tr><td align = center>J2SE 1.4</td><td align = center>February 6, 2002</td></tr>
+<tr><td align = center>J2SE 5.0</td><td align = center>September 30, 2004</td></tr>
+<tr><td align = center>Java SE 6</td><td align = center>December 11, 2006</td></tr>
+<tr><td align = center>Java SE 7</td><td align = center>July 28, 2011</td></tr>
+<tr><td align = center>Java SE 8</td><td align = center>March 18, 2014</td></tr>
+<tr><td align = center>Java SE 9</td><td align = center>September 21, 2017</td></tr>
+<tr><td align = center>Java SE 10</td><td align = center>March 20, 2018</td></tr>
+<tr><td align = center>Java SE 11</td><td align = center>September 25, 2018</td></tr>
+<tr><td align = center>Java SE 12</td><td align = center>March 19, 2019</td></tr>
+<tr><td align = center>Java SE 13</td><td align = center>September 17, 2019</td></tr>
+<tr><td align = center>Java SE 14</td><td align = center>March 17, 2020</td></tr>
+</table>
+</div>
+
+<div class = "J2">
+<h2 style = "color:#000000">History</h2>
+<p align = left style = "font-family:Cambria">James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time. The language was initially called Oak after an oak tree that stood outside Gosling's office. Later the project went by the name Green and was finally renamed Java, from Java coffee, the coffee from Indonesia. Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar.
+Sun Microsystems released the first public implementation as Java 1.0 in 1996. It promised Write Once, Run Anywhere (WORA) functionality, providing no-cost run-times on popular platforms. Fairly secure and featuring configurable security, it allowed network- and file-access restrictions. Major web browsers soon incorporated the ability to run Java applets within web pages, and Java quickly became popular. The Java 1.0 compiler was re-written in Java by Arthur van Hoff to comply strictly with the Java 1.0 language specification. 
+With the advent of Java 2 (released initially as J2SE 1.2 in December 1998 – 1999), new versions had multiple configurations built for different types of platforms. J2EE included technologies and APIs for enterprise applications typically run in server environments, while J2ME featured APIs optimized for mobile applications. The desktop version was renamed J2SE. In 2006, for marketing purposes, Sun renamed new J2 versions as Java EE, Java ME, and Java SE, respectively.
+</p>
+</div>
+
+<div class = "imgJ2">
+<img src = "Java_picture2.jpg" width = "480" height = "250">
+</div>
+
+<div class = "imgJ3">
+<img src = "Java_picture3.jpg" width = "480" height = "242">
+</div>
+
+
+
+<br><br><br><br><br><br><br><br>
+
+<div class = "footer">
+<h5 style = "color:white">Contact email: bjut_wutianhe@qq.com</h5>
+</div>
+
+</body>
+</html>

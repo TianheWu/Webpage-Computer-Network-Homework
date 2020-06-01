@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>C Programming Language</title>
+
+<style type = "text/css">
+.header {
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.C1 {
+    background-color:#333333;
+    height:180px;
+    width:1000px;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.C2 {
+    background-color:#333333;
+    height:180px;
+    width:1000px;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.C3 {
+    background-color:#333333;
+    height:180px;
+    width:1000px;
+    float:left;
+    color:white;
+    margin:7px;
+    padding:5px ;
+}
+
+.imgC {
+    float:right;
+}
+
+.imgC2 {
+    float:right;
+}
+
+.imgC3 {
+    float:right;
+}
+
+.footer {
+    background-color: black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:3px;
+}
+
+</style>
+</head>
+
+<body bgcolor = "#666666">
+<div class = "header">
+<h1>C Programming Language</h1>
+<h5 style = "color:#FFCC00">18021006 Tianhe Wu</h5>
+</div>
+
+<font size = 15 face = Cambria color = "white">C language</font>
+<font size = 12 face = Cambria color = "white">Introduction</font>
+<br>
+<hr size = 2 width 50% align = left noshade>
+
+<div class = "C1">
+<h2 style = "color:#FFCC00">Introduction</h2>
+<p align = left style = "font-family:Cambria"><B><var  style = "color:#FFFFCC">C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. </var></B>By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. 
+Such applications include operating systems and various application software for computers architectures that range from supercomputers to PLCs and embedded systems.</p>
+</div>
+
+<div class = "imgC">
+<img src = "C_picture.jpg" width = "200" height = "200">
+</div>
+
+<div class = "C2">
+<h2 style = "color:#FFCC00">Judge</h2>
+<p align = left style = "font-family:Cambria">A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages, with C compilers from various vendors available for the majority of existing computer architectures and operating systems. 
+C has been standardized by the ANSI since 1989 (ANSI C) and by the International Organization for Standardization (ISO).</p>
+</div>
+
+<div class = "imgC2">
+<img src = "C_picture2.jpg" width = "300" height = "200">
+</div>
+
+<div class = "C3">
+<h2 style = "color:#FFCC00">Influence</h2>
+<p align = left style = "font-family:Cambria">C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. 
+<var  style = "color:#FFFFCC">A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code.</var></p>
+</div>
+
+<div class = "imgC3">
+<img src = "C_picture3.jpg" width = "400" height = "200">
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+<div class = "footer">
+<h5 style = "color:white">Contact email: bjut_wutianhe@qq.com</h5>
+</div>
+
+</body>
+</html>

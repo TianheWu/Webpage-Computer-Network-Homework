@@ -1,0 +1,297 @@
+<html>
+<head>
+<title>Programming Language</title>
+
+<style type = "text/css">
+.header {
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.mode1 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode2 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode3 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode4 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode5 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode6 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode7 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode8 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode8 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode9 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode10 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:left;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode11 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.mode12 {
+    background-color:#666666;
+    color:white;
+    height:120px;
+    width:180px;
+    text-align:center;
+    float:right;
+    margin:7px;
+    padding:40px 20px 20px 20px ;
+}
+
+.table {
+    float:left
+}
+
+.font7 {
+    font-size:48px;
+}
+
+.footer {
+    background-color: black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:3px;
+}
+
+a{ text-decoration:none}
+
+</style>
+</head>
+
+<body link = white vlink = white>
+<div class = "header">
+<h1>Programming Language</h1>
+<h5 style = "color:#FFCC00">18021006 Tianhe Wu</h5>
+</div>
+
+<div class = "mode1">
+<a href = "file:///C:/Users/Tianhe%20Wu/Desktop/C.html" target = "_blank" class = "font7">C</a>
+<br><br>
+<font size = 3>Difficulty Level: B</font>
+</div>
+
+<div class = "mode2">
+<a href = "file:///C:/Users/Tianhe%20Wu/Desktop/Java.html" target = "_blank" class = "font7">Java</a>
+<br><br>
+<font size = 3>Difficulty Level: A</font>
+</div>
+
+<div class = "table">
+<table cellpadding = 2>
+<tr><th></th><th></th><th>Dec 2019 </th><th>Dec 2018 </th><th>Programming Language</th><th>Ratings</th><th>Change</th><th>Tend</th></tr>
+<tr><td></td><td></td><td align = center>1</td><td align = center>1</td><td align = center>Java</td><td align = center>17.253%</td><td align = center>+1.32%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>2</td><td align = center>2</td><td align = center>C</td><td align = center>16.086%</td><td align = center>+1.80%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>3</td><td align = center>3</td><td align = center>Python</td><td align = center>10.308%</td><td align = center>+1.93%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>4</td><td align = center>4</td><td align = center>C++</td><td align = center>6.196%</td><td align = center>-1.37%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>5</td><td align = center>6</td><td align = center>C#</td><td align = center>4.801%</td><td align = center>+1.35%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>6</td><td align = center>5</td><td align = center>Visual Basic .NET</td><td align = center>4.743%</td><td align = center>-2.38%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>7</td><td align = center>7</td><td align = center>JavaScript</td><td align = center>2.090%</td><td align = center>-0.97%</td><td align = center>↓</td></tr>
+</table>
+</div>
+
+<div class = "mode3">
+<font size = 7>C++</font><br><br>
+<font size = 3>Difficulty Level: A+</font>
+</div>
+
+<div class = "mode4">
+<font size = 7>Python</font><br><br>
+<font size = 3>Difficulty Level: B-</font>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<div class = "mode5">
+<font size = 7>C#</font><br><br>
+<font size = 3>Difficulty Level: A-</font>
+</div>
+
+<div class = "mode6">
+<font size = 7>SQL</font><br><br>
+<font size = 3>Difficulty Level: B-</font>
+</div>
+
+<div class = "table">
+<table cellpadding = 2>
+<tr><th></th><th></th><th>Dec 2019 </th><th>Dec 2018 </th><th>Programming Language</th><th>Ratings</th><th>Change</th><th>Tend</th></tr>
+<tr><td></td><td></td><td align = center>8</td><td align = center>8</td><td align = center>PHP</td><td align = center>2.048%</td><td align = center>-0.39%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>9</td><td align = center>9</td><td align = center>SQL</td><td align = center>1.843%</td><td align = center>-0.34%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>10</td><td align = center>14</td><td align = center>Swift</td><td align = center>1.490%</td><td align = center>+0.27%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>11</td><td align = center>17</td><td align = center>Ruby</td><td align = center>1.314%</td><td align = center>+0.21%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>12</td><td align = center>11</td><td align = center>Pascal</td><td align = center>1.280%</td><td align = center>-0.12%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>13</td><td align = center>10</td><td align = center>Objetive-C</td><td align = center>1.204%</td><td align = center>-0.27%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>14</td><td align = center>12</td><td align = center>Assembly Language</td><td align = center>1.067%</td><td align = center>-0.30%</td><td align = center>↓</td></tr>
+</table>
+</div>
+
+<div class = "mode7">
+<font size = 7>PHP</font><br><br>
+<font size = 3>Difficulty Level: A</font>
+</div>
+
+<div class = "mode8">
+<font size = 7>Go</font><br><br>
+<font size = 3>Difficulty Level: B+</font>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<div class = "mode9">
+<font size = 7>D</font><br><br>
+<font size = 3>Difficulty Level: B-</font>
+</div>
+
+<div class = "mode10">
+<font size = 7>JS</font><br><br>
+<font size = 3>Difficulty Level: B</font>
+</div>
+
+<div class = "table">
+<table cellpadding = 2>
+<tr><th></th><th></th><th>Dec 2019 </th><th>Dec 2018 </th><th>Programming Language</th><th>Ratings</th><th>Change</th><th>Tend</th></tr>
+<tr><td></td><td></td><td align = center>15</td><td align = center>15</td><td align = center>Go</td><td align = center>0.995%</td><td align = center>-0.19%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>16</td><td align = center>16</td><td align = center>R</td><td align = center>0.995%</td><td align = center>-0.12%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>17</td><td align = center>13</td><td align = center>MATLAB</td><td align = center>0.986%</td><td align = center>-0.30%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>18</td><td align = center>25</td><td align = center>D</td><td align = center>0.930%</td><td align = center>+0.42%</td><td align = center>↑</td></tr>
+<tr><td></td><td></td><td align = center>19</td><td align = center>19</td><td align = center>Visual Basic</td><td align = center>0.929%</td><td align = center>-0.05%</td><td align = center>↓</td></tr>
+<tr><td></td><td></td><td align = center>20</td><td align = center>18</td><td align = center>Perl</td><td align = center>0.889%</td><td align = center>-0.11%</td><td align = center>↓</td></tr>
+</table>
+</div>
+
+
+<div class = "mode11">
+<font size = 7>HTML</font><br><br>
+<font size = 3>Difficulty Level: B-</font>
+</div>
+
+<div class = "mode12">
+<font size = 7>R</font><br><br>
+<font size = 3>Difficulty Level: B</font>
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+<div class = "footer">
+<h5 style = "color:white">Contact email: bjut_wutianhe@qq.com</h5>
+</div>
+
+</body>
+</html>
+
+
